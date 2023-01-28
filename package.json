@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": { 
     "tarea": "node tarea.js",
-    "start": "node index.js",
-  "saludar": "node hola_mundo.js"
+  
   },
   "keywords": [
     "hola"
