@@ -10,4 +10,3 @@ const persona ={
         url :"https://es.wikipedia.org/wiki/1984_(novela)"
     }
 }
-console.log(persona.libro_favorito.fecha)
