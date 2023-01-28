@@ -4,7 +4,7 @@
   "description": "Este es mi primer proyecto de javascript con node en openbootcamp",
   "main": "index.js",
   "scripts": { 
-    "tarea": "node tarea.js",
+    "tarea": "node tarea.js"
   
   },
   "keywords": [
