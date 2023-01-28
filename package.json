@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de javascript con node en openbootcamp",
+  "main": "index.js",
+  "scripts": { 
+    "tarea": "node tarea.js",
+    "start": "node index.js",
+  "saludar": "node hola_mundo.js"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "author": "Alejandro",
+  "license": "ISC"
+}
